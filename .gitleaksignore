@@ -1,0 +1,3 @@
+# Reviewed false alarms. Each line is file:rule:start-line.
+# A new secret on a different line still fails the scan.
+src/interfaces/IEpochBasedVoteToken.sol:generic-api-key:8
